@@ -1,0 +1,1 @@
+Stuff that I learn in javascript along my path of becoming a master javascript programmer.
